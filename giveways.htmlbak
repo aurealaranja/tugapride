@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Products - Brand</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i">
+</head>
+
+<body style="background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url('bg.jpg');background-image: url(&quot;assets/img/Sem%20Título-2.jpg&quot;);">
+    <h1 class="text-center text-white d-none d-lg-block site-heading"><span class="text-primary site-heading-upper mb-3"></span><span class="site-heading-lower">Tugapride</span></h1>
+    <nav class="navbar navbar-light navbar-expand-lg bg-dark py-lg-4" id="mainNav" style="background-color: rgb(137,143,146);color: rgb(50,100,150);">
+        <div class="container"><a class="navbar-brand text-uppercase d-lg-none text-expanded" href="#">Brand</a><button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div
+                class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="nav navbar-nav mx-auto">
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.html">início</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="sobrenos.html">sobre nós</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="giveways.html">giveways</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="horarios.html">horários</a></li>
+                </ul>
+        </div>
+        </div>
+    </nav>
+    <section class="page-section">
+        <div class="container">
+            <div class="product-item">
+                <div class="d-flex product-item-title">
+                    <div class="d-flex mr-auto bg-faded p-5 rounded">
+                        <h2 class="section-heading mb-0"><span class="section-heading-lower">Giveways</span></h2>
+                    </div>
+                </div><img class="img-fluid d-flex mx-auto product-item-img mb-3 mb-lg-0 rounded" src="assets/img/uc.png"></div>
+        </div>
+    </section>
+    <section class="page-section">
+        <div class="container">
+            <div class="product-item"></div>
+        </div>
+    </section>
+    <section class="page-section">
+        <div class="container">
+            <div class="product-item">
+                <div class="d-flex product-item-title"></div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer text-faded text-center py-5" style="background-color: rgb(52,58,64);">
+        <div class="container">
+            <p class="m-0 small" style="color: rgb(255,255,255);">Copyright&nbsp;© TugaPride 2020</p>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/current-day.js"></script>
+</body>
+
+</html>
